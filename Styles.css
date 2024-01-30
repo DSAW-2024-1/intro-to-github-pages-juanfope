@@ -1,6 +1,19 @@
-.preparation-time{
-    background: hsl(330, 100%, 98%);
-    h3{
-      color: hsl(332, 51%, 32%);
-    }
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit&family=Young+Serif&display=swap');
+
+.omelette-recipe{
+  h1{
+    font-family: "Young Serif";
   }
+  p{
+    font-family: Outfit;
+  }
+}
+
+.preparation-time{
+  background: hsl(330, 100%, 98%);
+  color: hsl(332, 51%, 32%)
+}
+.background{
+  background: hsl(30, 54%, 90%);
+}
