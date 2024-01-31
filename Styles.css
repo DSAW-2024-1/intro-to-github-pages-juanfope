@@ -34,7 +34,7 @@ color: hsl(24, 5%, 18%);
 }
 .prep-sq{
   border: 1px;
-  border-radius: 7px;
+  border-radius: 30px;
   padding: 20px;
   margin: 40px;
 }
@@ -43,7 +43,13 @@ color: hsl(24, 5%, 18%);
   border: 1px;
   border-radius: 30px;
   padding: 20px;
-  margin: 40px;
+  margin-left: 375px;
+  margin-right: 375px;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+.alignment{
+  
 }
 body{
       background: hsl(30, 54%, 90%);
