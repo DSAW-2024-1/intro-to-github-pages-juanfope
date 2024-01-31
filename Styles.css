@@ -29,6 +29,24 @@ color: hsl(24, 5%, 18%);
 }
 .ingredients{
   font-family: "Young Serif";
-  color: hsl(14, 45%, 36%);
+  color: hsl(14, 45%, 36%)
   weight: 600;
 }
+.prep-sq{
+  border: 1px;
+  border-radius: 7px;
+  padding: 20px;
+  margin: 40px;
+}
+.body-sq{
+  background: hsl(0, 0%, 100%);
+  border: 1px;
+  border-radius: 30px;
+  padding: 20px;
+  margin: 40px;
+}
+body{
+      background: hsl(30, 54%, 90%);
+      margin: 0;
+      padding: 0;
+    }
