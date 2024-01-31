@@ -2,18 +2,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit&family=Young+Serif&display=swap');
 
 .omelette-recipe{
+color: hsl(24, 5%, 18%);
   h1{
     font-family: "Young Serif";
+    weight: 900;
   }
   p{
     font-family: Outfit;
   }
 }
-
 .preparation-time{
+  font-family: Outfit;
   background: hsl(330, 100%, 98%);
   color: hsl(332, 51%, 32%)
 }
 .background{
   background: hsl(30, 54%, 90%);
+}
+.item{
+  color: hsl(30, 10%, 34%);
+  font-weight: 900;
+}
+.text{
+  color: hsl(24, 5%, 18%);
+  font-family: Outfit;
+}
+.ingredients{
+  font-family: "Young Serif";
+  color: hsl(14, 45%, 36%);
+  weight: 600;
 }
