@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit&family=Young+Serif&display=swap');
 
 .omelette-recipe{
-color: hsl(24, 5%, 18%);
+  color: hsl(24, 5%, 18%);
   h1{
     font-family: "Young Serif";
     weight: 900;
@@ -16,9 +16,6 @@ color: hsl(24, 5%, 18%);
   background: hsl(330, 100%, 98%);
   color: hsl(332, 51%, 32%)
 }
-.background{
-  background: hsl(30, 54%, 90%);
-}
 .item{
   color: hsl(30, 10%, 34%);
   font-weight: 900;
@@ -29,7 +26,7 @@ color: hsl(24, 5%, 18%);
 }
 .ingredients{
   font-family: "Young Serif";
-  color: hsl(14, 45%, 36%)
+  color: hsl(14, 45%, 36%);
   weight: 600;
 }
 .prep-sq{
@@ -47,9 +44,6 @@ color: hsl(24, 5%, 18%);
   margin-right: 375px;
   margin-top: 150px;
   margin-bottom: 150px;
-}
-.alignment{
-  
 }
 body{
       background: hsl(30, 54%, 90%);
