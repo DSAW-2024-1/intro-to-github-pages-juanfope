@@ -12,7 +12,7 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
 
 ## Sitio web Desplegado
 El taller estará finalizado una vez suban su página a internet y agregue a continuación el link:
-- **Link del sitio web desplegado:**
+- **Link del sitio web desplegado: https://dsaw-2024-1.github.io/intro-to-github-pages-juanfope/**
 ## Evidencias de los juegos de Flexbox y grid
 ![Flexbox froggy solution](Flexbox_Froggy_solution.jpeg)
 ![Flexbox froggy evidence](Flexbox_Froggy_evidence.jpeg)
