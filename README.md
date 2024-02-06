@@ -13,3 +13,8 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
 ## Sitio web Desplegado
 El taller estará finalizado una vez suban su página a internet y agregue a continuación el link:
 - **Link del sitio web desplegado:**
+## Evidencias de los juegos de Flexbox y grid
+![Flexbox froggy solution](Flexbox_Froggy_solution.jpeg)
+![Flexbox froggy evidence](Flexbox_Froggy_evidence.jpeg)
+![grid solution](Grid_solution.jpeg)
+![grid evidence](Grid_evidence.jpeg)
